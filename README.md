@@ -1,3 +1,3 @@
-# quantor-creative-agency
-An awesome company profile website of Quantor - Creative Agency.
+# NKIKA GENERAL SUPPLY
+An awesome company profile website of NKIKA GENERAL SUPPLY.
 #CollegeAssignment
